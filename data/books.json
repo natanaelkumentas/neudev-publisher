@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "title": "The Midnight Garden",
+    "author": "Sarah Mitchell",
+    "category": "Fiction",
+    "grade": "Adult",
+    "price": 125000,
+    "cover": "fiction novel",
+    "description": "A captivating mystery novel about a woman who discovers a hidden garden that only appears at midnight.",
+    "isbn": "978-602-1234-56-7"
+  },
+  {
+    "id": "2",
+    "title": "Indonesian Culinary Journey",
+    "author": "Chef Budi Santoso",
+    "category": "Cooking",
+    "grade": "All Ages",
+    "price": 195000,
+    "cover": "cooking book",
+    "description": "Explore traditional and modern Indonesian recipes with stunning photography and step-by-step guides.",
+    "isbn": "978-602-1234-57-4"
+  },
+  {
+    "id": "3",
+    "title": "Digital Marketing Mastery",
+    "author": "Amanda Chen",
+    "category": "Business",
+    "grade": "Professional",
+    "price": 185000,
+    "cover": "business book",
+    "description": "Comprehensive guide to modern digital marketing strategies for businesses and entrepreneurs.",
+    "isbn": "978-602-1234-58-1"
+  },
+  {
+    "id": "4",
+    "title": "Voices of Jakarta",
+    "author": "Dr. Robert Anderson",
+    "category": "History",
+    "grade": "Adult",
+    "price": 155000,
+    "cover": "history book",
+    "description": "A collection of personal stories and historical accounts that shaped Jakarta's cultural landscape.",
+    "isbn": "978-602-1234-59-8"
+  },
+  {
+    "id": "5",
+    "title": "Mindful Living",
+    "author": "Dewi Kusuma",
+    "category": "Self-Help",
+    "grade": "Adult",
+    "price": 135000,
+    "cover": "self help book",
+    "description": "Practical guide to mindfulness, meditation, and finding balance in modern life.",
+    "isbn": "978-602-1234-60-4"
+  },
+  {
+    "id": "6",
+    "title": "Urban Photography Essentials",
+    "author": "Michael Chang",
+    "category": "Photography",
+    "grade": "All Ages",
+    "price": 210000,
+    "cover": "photography book",
+    "description": "Master the art of capturing stunning urban landscapes and street photography.",
+    "isbn": "978-602-1234-61-1"
+  },
+  {
+    "id": "7",
+    "title": "The Entrepreneur's Blueprint",
+    "author": "Lisa Wong",
+    "category": "Business",
+    "grade": "Professional",
+    "price": 175000,
+    "cover": "business book",
+    "description": "Step-by-step guide to building and scaling a successful startup in Indonesia.",
+    "isbn": "978-602-1234-62-8"
+  },
+  {
+    "id": "8",
+    "title": "Tales from Nusantara",
+    "author": "Pak Bambang",
+    "category": "Fiction",
+    "grade": "Young Adult",
+    "price": 120000,
+    "cover": "fiction book",
+    "description": "Collection of contemporary short stories inspired by Indonesian folklore and culture.",
+    "isbn": "978-602-1234-63-5"
+  },
+  {
+    "id": "9",
+    "title": "Investing for Beginners",
+    "author": "David Kumar",
+    "category": "Finance",
+    "grade": "Adult",
+    "price": 165000,
+    "cover": "finance book",
+    "description": "Learn the fundamentals of investing, from stocks to real estate, in simple terms.",
+    "isbn": "978-602-1234-64-2"
+  },
+  {
+    "id": "10",
+    "title": "Web Design Fundamentals",
+    "author": "Jennifer Park",
+    "category": "Technology",
+    "grade": "Professional",
+    "price": 190000,
+    "cover": "technology book",
+    "description": "Complete guide to modern web design principles, UX/UI, and responsive layouts.",
+    "isbn": "978-602-1234-65-9"
+  },
+  {
+    "id": "11",
+    "title": "Tropical Garden Design",
+    "author": "Maya Kusuma",
+    "category": "Lifestyle",
+    "grade": "All Ages",
+    "price": 180000,
+    "cover": "gardening book",
+    "description": "Create beautiful tropical gardens with native plants and sustainable practices.",
+    "isbn": "978-602-1234-66-6"
+  },
+  {
+    "id": "12",
+    "title": "Coffee Table Book: Indonesia",
+    "author": "Various Photographers",
+    "category": "Photography",
+    "grade": "All Ages",
+    "price": 350000,
+    "cover": "coffee table book",
+    "description": "Stunning visual journey through Indonesia's diverse landscapes and cultures.",
+    "isbn": "978-602-1234-67-3"
+  },
+  {
+    "id": "13",
+    "title": "Healthy Home Cooking",
+    "author": "Chef Siti Rahman",
+    "category": "Cooking",
+    "grade": "All Ages",
+    "price": 145000,
+    "cover": "cooking book",
+    "description": "Nutritious and delicious recipes for busy families, with meal planning tips.",
+    "isbn": "978-602-1234-68-0"
+  },
+  {
+    "id": "14",
+    "title": "The Art of Negotiation",
+    "author": "Ryan Thompson",
+    "category": "Business",
+    "grade": "Professional",
+    "price": 155000,
+    "cover": "business book",
+    "description": "Master negotiation techniques for business deals, salary discussions, and more.",
+    "isbn": "978-602-1234-69-7"
+  },
+  {
+    "id": "15",
+    "title": "Poetry of the Islands",
+    "author": "Aisyah Putri",
+    "category": "Poetry",
+    "grade": "Adult",
+    "price": 95000,
+    "cover": "poetry book",
+    "description": "Collection of contemporary Indonesian poetry exploring love, loss, and identity.",
+    "isbn": "978-602-1234-70-3"
+  },
+  {
+    "id": "16",
+    "title": "Travel Guide: Hidden Gems",
+    "author": "Adventure Collective",
+    "category": "Travel",
+    "grade": "All Ages",
+    "price": 170000,
+    "cover": "travel book",
+    "description": "Discover off-the-beaten-path destinations across Indonesia's archipelago.",
+    "isbn": "978-602-1234-71-0"
+  }
+]
