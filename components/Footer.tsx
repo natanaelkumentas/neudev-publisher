@@ -37,13 +37,13 @@ export default function Footer() {
               >
                 <FaInstagram className="text-xl hover:text-pink-500 transition-colors" />
               </a>
-              <a href="#" aria-label="Facebook">
+              <a href="https://neudev.web.id" target="_blank" aria-label="Facebook">
                 <FaFacebook className="text-xl hover:text-blue-500 transition-colors" />
               </a>
-              <a href="#" aria-label="Twitter">
+              <a href="https://neudev.web.id" target="_blank" aria-label="Twitter">
                 <FaTwitter className="text-xl hover:text-blue-400 transition-colors" />
               </a>
-              <a href="#" aria-label="YouTube">
+              <a href="https://neudev.web.id" target="_blank" aria-label="YouTube">
                 <FaYoutube className="text-xl hover:text-red-500 transition-colors" />
               </a>
             </div>
@@ -89,7 +89,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <FaEnvelope />
-                <span>info@neudevpublisher.co.id</span>
+                <a
+                  href="https://neudev.web.id"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+                >
+                contact.neudev@gmail.com
+                </a>
               </li>
               <li className="flex items-center gap-2">
                 <FaInstagram />
@@ -99,7 +106,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
                 >
-                  @neudevpublisher
+                  @neudev_
                 </a>
               </li>
             </ul>
