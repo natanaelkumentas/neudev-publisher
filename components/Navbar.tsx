@@ -21,8 +21,8 @@ export default function Navbar() {
         <div className="flex items-center justify-between py-4">
 
           {/* Logo */}
-          <Link
-            href="/"
+          <a
+            href="https://www.neudev.web.id"
             className="flex items-center gap-3 hover:opacity-80 transition-opacity"
           >
             <Image
@@ -36,7 +36,7 @@ export default function Navbar() {
             <span className="text-lg font-semibold text-gray-900">
               NeudevPublisher
             </span>
-          </Link>
+          </a>
 
           {/* Desktop Menu */}
           <nav className="hidden md:flex items-center gap-8">
